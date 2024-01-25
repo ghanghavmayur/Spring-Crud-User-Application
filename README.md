@@ -41,13 +41,8 @@ Before running the application, make sure you have the following installed:
  
     ```bash
     cd UserTableCrudApp
-    
-4. Navigate to the project directory:  
- 
-   ```bash
-   cd UserTableCrudApp
    
-5. Update the database configuration:
+4. Update the database configuration:
 - Open src/main/resources/application.properties
 - Replace your-database-url, your-username, and your-password with your actual database URL, username, and password.
 

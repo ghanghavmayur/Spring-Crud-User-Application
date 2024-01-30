@@ -1,4 +1,4 @@
-# User Table CRUD Application
+# User Table CRUD Application 
 
 This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application for managing user data in a database. The application uses Spring MVC architecture and interacts with a relational database using Spring Data JPA.
 
